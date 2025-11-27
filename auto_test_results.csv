@@ -1,0 +1,31 @@
+id,text,expected,detected_raw,detected,pass,bot_response
+1,I love how this works!,Positive,Positive,Positive,True,You sound absolutely thrilled! 🌟 Keep that positive energy going.
+2,Today is such a beautiful day.,Positive,Neutral,Neutral,False,Got it. Go on...
+3,You are really helpful.,Positive,Neutral,Neutral,False,Got it. Go on...
+4,This project came out amazing!,Positive,Positive,Positive,True,That sounds good! What did you like most about it?
+5,I’m feeling extremely good right now.,Positive,Positive,Positive,True,That sounds good! What did you like most about it?
+6,I hate everything today.,Negative,Negative,Negative,True,I can tell you're frustrated. Do you want to vent about it?
+7,This is the worst experience I’ve had.,Negative,Negative,Negative,True,You sound pretty upset. 😟 Take a deep breath — I'm listening.
+8,I’m really sad and frustrated.,Negative,Negative,Negative,True,I'm sorry it wasn't better. What happened exactly?
+9,You are useless.,Negative,Neutral,Neutral,False,Interesting. Tell me more.
+10,I feel terrible about my results.,Negative,Negative,Negative,True,I see. That sounds tough.
+11,What is your name?,Neutral,Neutral,Neutral,True,Got it. Go on...
+12,What time is it?,Neutral,Neutral,Neutral,True,Interesting. Tell me more.
+13,I need some help.,Neutral,Neutral,Neutral,True,Interesting. Tell me more.
+14,Let’s talk about something.,Neutral,Neutral,Neutral,True,Interesting. Tell me more.
+15,Tell me a fact.,Neutral,Neutral,Neutral,True,Got it. Go on...
+16,I’m happy with the design but angry at the delay.,Mixed/Neutral,Neutral,Neutral,True,You sound pretty upset. 😟 Take a deep breath — I'm listening.
+17,It looks great but it feels wrong.,Mixed/Neutral,Positive,Positive,False,You sound absolutely thrilled! 🌟 Keep that positive energy going.
+18,The movie was fun but too long.,Mixed/Neutral,Neutral,Neutral,True,Interesting. Tell me more.
+19,It’s not bad.,Neutral/Positive,Positive,Positive,True,That sounds good! What did you like most about it?
+20,This is not good.,Negative,Negative,Negative,True,I see. That sounds tough.
+21,I’m not unhappy today.,Neutral/Positive,Neutral,Neutral,True,Interesting. Tell me more.
+22,The service wasn’t terrible.,Neutral/Positive,Negative,Negative,False,I'm sorry it wasn't better. What happened exactly?
+23,I don’t hate it.,Neutral/Positive,Negative,Negative,False,You sound pretty upset. 😟 Take a deep breath — I'm listening.
+24,"Hi, I am feeling good.",Positive,Positive,Positive,True,"Hey, feeling! I'm ready to chat. How are you feeling right now?"
+25,But yesterday was really bad.,Negative,Negative,Negative,True,I'm sorry it wasn't better. What happened exactly?
+26,"Today is okay, I guess.",Neutral/Positive,Neutral,Neutral,True,Interesting. Tell me more.
+27,Good... I guess?,Neutral/Positive,Positive,Positive,True,That sounds good! What did you like most about it?
+28,Wow????,Neutral,Neutral,Neutral,True,Interesting. Tell me more.
+29,I’m so so so so happyyyyy!!!!,Positive,Neutral,Neutral,False,Got it. Go on...
+30,It’s fine.,Neutral/Positive,Neutral,Neutral,True,Interesting. Tell me more.
